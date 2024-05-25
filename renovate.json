@@ -4,3 +4,9 @@
     "config:recommended"
   ]
 }
+"packageRules": [
+    {
+      "matchUpdateTypes": ["major"],
+      "dependencyDashboardApproval": true
+    }
+  ]
