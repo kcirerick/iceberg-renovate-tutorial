@@ -8,5 +8,8 @@
       "matchUpdateTypes": ["major"],
       "dependencyDashboardApproval": true
     }
-  ]
+  ],
+  {
+    "prHourlyLimit": 3
+  }
 }
